@@ -6,9 +6,9 @@ react + redux + immutable + less + scss + ES6/7 + webpack + fetch + react-router
 
 ## 下载
 
- 	git clone https://github.com/bailicangdu/pxq.git
+ 	git clone https://github.com/boboyaohuo/react-dome1.git
 
- 	cd pxq
+ 	cd react-demo1
 
  	npm install 
 
