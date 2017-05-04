@@ -3,7 +3,6 @@
 
 react + redux + immutable + less + scss + ES6/7 + webpack + fetch + react-router按需加载 + react-transform热替换 + webpack-dev-server + http-proxy-middleware
 
-
 ## 下载
 
  	git clone https://github.com/boboyaohuo/react-dome1.git
@@ -11,7 +10,6 @@ react + redux + immutable + less + scss + ES6/7 + webpack + fetch + react-router
  	cd react-demo1
 
  	npm install 
-
 
 ## 运行（nodejs 6.0+）
 ```
@@ -23,7 +21,6 @@ react + redux + immutable + less + scss + ES6/7 + webpack + fetch + react-router
   
  npm run dist （发布生产版本，对代码进行混淆压缩，提取公共代码，分离css文件）
 ```
-
 
 # 个人感悟
 
